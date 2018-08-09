@@ -42,7 +42,7 @@
             'gap status code': 'Gap Status',
             'state name': 'State',
             'aggregator source': 'Aggregator Source'
-        };
+        },
       ]
     }
   ]
