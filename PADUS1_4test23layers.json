@@ -33,16 +33,6 @@
             "link": "http://www.usgs.gov"
           }
         }
-	{
-          "featureInfoTemplate":
-            'designation type': 'Designation',
-            'manager name': 'Manager Name',
-            'gis acres': 'GIS Acres',
-            'public access': 'Public Access',
-            'gap status code': 'Gap Status',
-            'state name': 'State',
-            'aggregator source': 'Aggregator Source'
-        },
       ]
     }
   ]
