@@ -33,8 +33,8 @@
             "link": "http://www.usgs.gov"
           }
         }
-		  {
-		  "featureInfoTemplate":
+	{
+          "featureInfoTemplate":
             'designation type': 'Designation',
             'manager name': 'Manager Name',
             'gis acres': 'GIS Acres',
