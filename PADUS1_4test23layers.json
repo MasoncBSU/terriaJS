@@ -10,7 +10,7 @@
   "catalog": [
     {
       "name": "PAD-US 1.4 Test",
-      "isOpen": false,
+      "isOpen": true,
       "type": "group",
       "items": [
         {
