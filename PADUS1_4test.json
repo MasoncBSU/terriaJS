@@ -34,10 +34,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 GAP Status",
+          "name": "PAD-US 1.4",
           "isEnabled": false,
           "type": "esri-mapServer",
-          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/GAP_Status_Code/MapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
