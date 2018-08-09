@@ -21,7 +21,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Gray",
           "isEnabled": true,
@@ -30,7 +32,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Green",
           "isEnabled": true,
@@ -39,7 +43,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Easements",
           "isEnabled": true,
@@ -48,7 +54,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Categories - Fee, Easement, Other, MPA",
           "isEnabled": true,
@@ -57,7 +65,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Categories - Fee, Easement, Other",
           "isEnabled": true,
@@ -66,7 +76,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Public Open Space",
           "isEnabled": true,
@@ -75,7 +87,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Public and Private Open Space",
           "isEnabled": true,
@@ -84,7 +98,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Public Access",
           "isEnabled": true,
@@ -93,7 +109,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 General Agency Level",
           "isEnabled": true,
@@ -102,7 +120,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Mid Agency Level",
           "isEnabled": true,
@@ -111,7 +131,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Fine Agency Level",
           "isEnabled": true,
@@ -120,7 +142,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Federal Management Agencies",
           "isEnabled": true,
@@ -129,7 +153,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Federal, Tribal, Other",
           "isEnabled": true,
@@ -138,7 +164,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 DOI, Other Federal, Tribal",
           "isEnabled": true,
@@ -147,7 +175,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Simple Designation Type",
           "isEnabled": true,
@@ -156,7 +186,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Detailed Designation Type",
           "isEnabled": true,
@@ -165,7 +197,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Protected Areas by Manager",
           "isEnabled": true,
@@ -174,7 +208,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Protected Biodiversity Areas",
           "isEnabled": true,
@@ -183,7 +219,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 Protected Multiple Use Areas",
           "isEnabled": true,
@@ -192,7 +230,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 GAP Status Code",
           "isEnabled": true,
@@ -201,7 +241,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 IUCN Category",
           "isEnabled": true,
@@ -210,7 +252,9 @@
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
-          }        
+          }
+        },
+
         {
           "name": "PAD-US 1.4 IUCN Category and Other Conservation Areas",
           "isEnabled": true,
@@ -220,8 +264,10 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },	  
-        }
+        },
+
+  
+        
       ]
     }
   ]
