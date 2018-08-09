@@ -32,7 +32,7 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        }
+        },
        {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Green",
           "isEnabled": true,
@@ -42,7 +42,7 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },	      
+        }	      
       ]
     }
   ]
