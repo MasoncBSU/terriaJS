@@ -14,16 +14,6 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 1.4 All Protected Areas - Green",
-          "isEnabled": true,
-          "type": "esri-mapServer",
-          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Comb_Protected_Green/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Gray",
           "isEnabled": true,
           "type": "esri-mapServer",
