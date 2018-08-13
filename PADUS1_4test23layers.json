@@ -9,7 +9,7 @@
   "initialViewerMode": "2d",
   "catalog": [
     {
-	  "name": "PAD-US 1.4 Test 23 Layers",
+      "name": "PAD-US 1.4 Test 23 Layers",
       "isOpen": true,
       "type": "group",
       "items": [
@@ -22,7 +22,7 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        }
+        },
         {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Gray",
           "isEnabled": true,
