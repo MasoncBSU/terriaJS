@@ -158,6 +158,7 @@
 	   "isPromoted": true,
 	   "isShown": true,
 	   "isLegendVisible": true,
+           "featureInfoFields": [ "Unit Name", "Manager Name" ]
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
           "attribution": {
