@@ -16,7 +16,7 @@
         {
           "name": "PAD-US 1.4 All Protected Areas - Green",
           "isEnabled": true,
-	  "isVisible": false,
+	   "isVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Comb_Protected_Green/MapServer",
           "attribution": {
