@@ -160,7 +160,7 @@
 	   "isLegendVisible": true,
           "featureInfoTemplate" : {
             "Manager Name": "Manager Name {{value}}",
-            "template": "<p>test"
+            "template": "test"
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
           "attribution": {
