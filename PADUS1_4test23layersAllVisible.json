@@ -156,7 +156,7 @@
           "name": "PAD-US 1.4 Fine Agency Level",
           "isEnabled": true,
 	   "isPromoted": true,
-	   "isShown": false,
+	   "isShown": true,
 	   "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
