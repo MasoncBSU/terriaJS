@@ -160,7 +160,7 @@
 	   "isLegendVisible": true,
           "featureInfoTemplate" : {
             "name": "Number {{value}}",
-            "template": "<p>All sheep stations have the same time series plot.</p><chart src='build/TerriaJS/test/csv_nongeo/time_series.csv' column-units=',litres,horsepower' y-column='1'></chart>"
+            "template": "<p>All sheep stations have the same time series plot.</p><chart src='build/TerriaJS/test/csv_nongeo/time_series.csv' column-units=',litres,horsepower' y-column='1'></chart>",
           }
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
