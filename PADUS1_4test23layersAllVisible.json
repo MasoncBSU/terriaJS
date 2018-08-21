@@ -5,6 +5,13 @@
     "east": -30,
     "north": 80
   },
+{
+  "initialCamera": {
+    "west": -127,
+    "south": 25,
+    "east": -61,
+    "north": 50
+  },
   "baseMapName": "Bing Maps Roads",
   "initialViewerMode": "2d",
   "catalog": [
