@@ -16,7 +16,8 @@
         {
           "name": "PAD-US 1.4 All Protected Areas - Green",
           "isEnabled": true,
-	   "isVisible": false,
+	   "isShown": false,
+	   "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Comb_Protected_Green/MapServer",
           "attribution": {
@@ -27,6 +28,7 @@
         {
           "name": "PAD-US 1.4 Terrestrial Protected Areas - Gray",
           "isEnabled": true,
+	   "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fee_Protected_Gray/MapServer",
           "attribution": {
@@ -97,6 +99,7 @@
         {
           "name": "PAD-US 1.4 Public Access",
           "isEnabled": true,
+	   "isPromoted": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Public_Access/MapServer",
           "attribution": {
@@ -127,6 +130,7 @@
         {
           "name": "PAD-US 1.4 Fine Agency Level",
           "isEnabled": true,
+	   "isPromoted": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
           "attribution": {
@@ -167,6 +171,7 @@
         {
           "name": "PAD-US 1.4 Simple Designation Type",
           "isEnabled": true,
+	   "isPromoted": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/SimpleDesignationType/MapServer",
           "attribution": {
@@ -187,6 +192,7 @@
         {
           "name": "PAD-US 1.4 Protected Areas by Manager",
           "isEnabled": true,
+	   "isPromoted": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Protected_Areas_by_Manager/MapServer",
           "attribution": {
@@ -217,6 +223,7 @@
         {
           "name": "PAD-US 1.4 GAP Status Code",
           "isEnabled": true,
+	   "isPromoted": true,
           "type": "esri-mapServer",
           "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/GAP_Status_Code/MapServer",
           "attribution": {
