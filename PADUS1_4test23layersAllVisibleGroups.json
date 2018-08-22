@@ -15,30 +15,291 @@
   "initialViewerMode": "2d",
   "catalog": [
     {
-      "name": "Rangeland Fire Secretarial Order (USGS)",
+	  "name": "PAD-US 1.4 Test 23 Layers",
       "isOpen": true,
       "type": "group",
       "items": [
         {
-          "name": "Management Categories",
+          "name": "PAD-US 1.4 All Protected Areas - Green",
           "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog/54889613e4b02acb4f0c91a9/MapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Comb_Protected_Green/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
         },
         {
-          "name": "USGS NLCD 2011",
-          "isEnabled": false,
+          "name": "PAD-US 1.4 Terrestrial Protected Areas - Gray",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "http://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fee_Protected_Gray/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        }
+        },
+        {
+          "name": "PAD-US 1.4 Terrestrial Protected Areas - Green",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,		
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fee_Protected_Green/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Easements",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Category_Ease/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Categories - Fee, Easement, Other, MPA",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Category_Fee_Ease_Oth_MPA/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Categories - Fee, Easement, Other",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Category_Fee_Ease_Oth/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Public Open Space",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Public/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Public and Private Open Space",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Public_Private/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Public Access",
+          "isEnabled": true,
+	   "isPromoted": true,
+	   "isShown": false,
+	   "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Public_Access/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 General Agency Level",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/General_Agency_Level/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Mid Agency Level",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/SimpleAgency/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Fine Agency Level",
+          "isEnabled": true,
+	   "isPromoted": true,
+	   "isShown": true,
+	   "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Federal Management Agencies",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/FederalManagers/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Federal, Tribal, Other",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fed_Tribal_Other/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 DOI, Other Federal, Tribal",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/DOI_Tribal_Other/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Simple Designation Type",
+          "isEnabled": true,
+	   "isPromoted": true,
+	   "isShown": false,
+	   "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/SimpleDesignationType/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Detailed Designation Type",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/DesignationType/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protected Areas by Manager",
+          "isEnabled": true,
+	   "isPromoted": true,
+	   "isShown": false,
+	   "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Protected_Areas_by_Manager/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protected Biodiversity Areas",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Protected_Biodiversity_Areas/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protected Multiple Use Areas",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Protected_Multiple_Use_Areas/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 GAP Status Code",
+          "isEnabled": true,
+	   "isPromoted": true,
+	   "isShown": false,
+	   "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/GAP_Status_Code/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 IUCN Category",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/IUCNCategories/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 IUCN Category and Other Conservation Areas",
+          "isEnabled": true,
+	   "isShown": false,
+	   "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/IUCNCategories_OtherConservationAreas/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },        
       ]
     }
   ]
