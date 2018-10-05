@@ -25,7 +25,7 @@
 	   "isShown": false,
 	   "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Comb_Protected_Green/MapServer",
+          "url": "https://basemaps.arcgis.com/v1/arcgis/rest/services/World_Basemap/VectorTileServer/tile/",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
