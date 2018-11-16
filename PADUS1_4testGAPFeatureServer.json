@@ -14,9 +14,9 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 1.4 Fine Agency",
+          "name": "PAD-US 2.0 GAP FeatureServer",
           "isEnabled": true,
-          "type": "esri-mapServer",
+          "type": "esri-featureServer",
           "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/PADUS_GAP_Code/FeatureServer",
           "attribution": {
             "text": "USGS",
