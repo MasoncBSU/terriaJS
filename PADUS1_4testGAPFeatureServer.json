@@ -5,7 +5,7 @@
     "east": -30,
     "north": 80
   },
-  "baseMapName": "Bing Maps Roads",
+  "baseMapName": "Natural Earth II",
   "initialViewerMode": "2d",
   "catalog": [
     {
@@ -16,7 +16,7 @@
         {
           "name": "PAD-US 2.0 GAP FeatureServer",
           "isEnabled": true,
-          "type": "wfs",
+          "type": "esri-featureServer",
           "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/PADUS_GAP_Code/FeatureServer",
           "attribution": {
             "text": "USGS",
