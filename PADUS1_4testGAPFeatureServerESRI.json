@@ -17,7 +17,7 @@
           "name": "PAD-US 2.0 GAP FeatureServer",
           "isEnabled": true,
           "type": "esri-featureServer",
-          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/PADUS_GAP_Code/FeatureServer",
+          "dataUrl": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/PADUS_GAP_Code/FeatureServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
