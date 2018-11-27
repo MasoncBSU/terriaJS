@@ -14,7 +14,7 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 2.0 GAP FeatureServer",
+          "name": "ESRI FED Lands FeatureServer",
           "isEnabled": true,
           "type": "esri-featureServer",
           "Url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Federal_Lands/FeatureServer",
