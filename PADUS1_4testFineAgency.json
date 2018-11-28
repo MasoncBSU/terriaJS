@@ -17,7 +17,7 @@
           "name": "PAD-US 1.4 Manager Name",
           "isEnabled": true,
           "type": "esri-mapServer",
-          "Url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer,
+          "Url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
