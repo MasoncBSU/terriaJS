@@ -5,7 +5,7 @@
     "east": -30,
     "north": 80
   },
-  "baseMapName": "Bing Maps Roads",
+  "baseMapName": "Natural Earth II",
   "initialViewerMode": "2d",
   "catalog": [
     {
