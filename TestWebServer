@@ -1,0 +1,39 @@
+{
+  "homeCamera": {
+    "west": -160,
+    "south": 0,
+    "east": -30,
+    "north": 80
+  },
+  "baseMapName": "Natural Lands II",
+  "initialViewerMode": "2d",
+  "catalog": [
+    {
+      "name": "Test Web Server",
+      "isOpen": true,
+      "type": "group",
+      "items": [
+        {
+          "name": "ESRI Fed Lands",
+          "isEnabled": true,
+          "type": "esri-featureServer",
+          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/USA_Federal_Lands/FeatureServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "USGS NLCD 2011",
+          "isEnabled": false,
+          "type": "esri-mapServer",
+          "url": "http://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        }
+      ]
+    }
+  ]
+}
