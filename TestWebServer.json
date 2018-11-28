@@ -24,10 +24,10 @@
           }
         },
         {
-          "name": "USGS NLCD 2011",
-          "isEnabled": false,
+          "name": "PADUS 1.4 Manager Name",
+          "isEnabled": true,
           "type": "esri-mapServer",
-          "url": "http://raster.nationalmap.gov/arcgis/rest/services/LandCover/USGS_EROS_LandCover_NLCD/MapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Fine_Agency_Level/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
