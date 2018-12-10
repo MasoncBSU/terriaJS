@@ -56,18 +56,6 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Easements",
-          "isEnabled": true,
-	   "isShown": false,
-	   "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis1.usgs.gov/arcgis/rest/services/PADUS1_4/Category_Ease/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
           "name": "PAD-US 1.4 Categories - Fee, Easement, Other, MPA",
           "isEnabled": true,
 	   "isShown": false,
