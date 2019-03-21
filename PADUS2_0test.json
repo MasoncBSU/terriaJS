@@ -14,10 +14,10 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 2.0 Manager Name Tile",
+          "name": "PAD-US 2.0 Manager Name Feature",
           "isEnabled": true,
-          "type": "esri-mapServer",
-          "url": "https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/PADUS_2018_Manager_Name/VectorTileServer",
+          "type": "esri-featureServer",
+          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Agency_Name_Feature_Layer/FeatureServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
