@@ -16,7 +16,7 @@
         {
           "name": "PAD-US 2.0 Manager Name Feature",
           "isEnabled": true,
-          "type": "esri-featureServer",
+          "type": "esri-mapServer",
           "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Agency_Name_Feature_Layer/FeatureServer",
           "attribution": {
             "text": "USGS",
