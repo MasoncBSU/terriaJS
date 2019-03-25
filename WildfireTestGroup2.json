@@ -17,7 +17,7 @@
           "name": "WildFire Group",
           "isEnabled": true,
           "type": "esri-featureServer-group",
-          "url": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/Wildfire/FeatureServer/0",
+          "url": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/Wildfire/FeatureServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
