@@ -16,7 +16,7 @@
         {
           "name": "WildFire Points",
           "isEnabled": true,
-          "type": "esri-featureserver",
+          "type": "esri-featureServer-group",
           "url": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/Wildfire/FeatureServer/0",
           "attribution": {
             "text": "USGS",
