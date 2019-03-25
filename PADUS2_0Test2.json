@@ -17,7 +17,7 @@
           "name": "PAD-US 2.0 Manager Name",
           "isEnabled": true,
           "type": "esri-FeatureServer",
-          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Agency_Name_Feature_Layer/FeatureServer",
+          "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/Agency_Name_Feature_Layer/FeatureServer/0",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
