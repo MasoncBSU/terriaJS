@@ -14,10 +14,10 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 1.4 Federal Management Agencies",
+          "name": "PAD-US 2.0 Federal Management Agencies",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996b38e4b0b8a7f62893cd/MapServer",
           "attribution": {
@@ -26,10 +26,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 DOD Boundaries",
+          "name": "PAD-US 2.0 DOD Boundaries",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c9973eae4b0b8a7f6289469/MapServer",
           "attribution": {
@@ -38,10 +38,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Fee Managers ",
+          "name": "PAD-US 2.0 Fee Managers ",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997641e4b0b8a7f628946c/MapServer",
           "attribution": {
@@ -50,10 +50,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Manager Name",
+          "name": "PAD-US 2.0 Manager Name",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": true,
+          "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
           "attribution": {
@@ -62,10 +62,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Manager Type",
+          "name": "PAD-US 2.0 Manager Type",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c99634ce4b0b8a7f628915b/MapServer",
           "attribution": {
@@ -74,10 +74,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Proclamation and Other Planning Boundaries",
+          "name": "PAD-US 2.0 Proclamation and Other Planning Boundaries",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997861e4b0b8a7f628946f/MapServer",
           "attribution": {
@@ -86,10 +86,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Protected Areas by Manager",
+          "name": "PAD-US 2.0 Protected Areas by Manager",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997bb7e4b0b8a7f6289475/MapServer",
           "attribution": {
@@ -98,10 +98,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Protection Mechanism Category",
+          "name": "PAD-US 2.0 Protection Mechanism Category",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997a12e4b0b8a7f6289472/MapServer",
           "attribution": {
@@ -110,10 +110,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Protection Status by GAP Status Code",
+          "name": "PAD-US 2.0 Protection Status by GAP Status Code",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996d3be4b0b8a7f6289450/MapServer",
           "attribution": {
@@ -122,10 +122,10 @@
           }
         },
         {
-          "name": "PAD-US 1.4 Public Access",
+          "name": "PAD-US 2.0 Public Access",
           "isEnabled": true,
-		  "isShown": false,
-		  "isLegendVisible": false,
+          "isShown": false,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996d2de4b0b8a7f628944e/MapServer",
           "attribution": {
