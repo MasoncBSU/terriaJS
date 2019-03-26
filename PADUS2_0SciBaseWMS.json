@@ -1,0 +1,139 @@
+{
+  "homeCamera": {
+    "west": -160,
+    "south": 0,
+    "east": -30,
+    "north": 80
+  },
+  "baseMapName": "Bing Maps Roads",
+  "initialViewerMode": "2d",
+  "catalog": [
+    {
+      "name": "PAD-US 2.0",
+      "isOpen": false,
+      "type": "group",
+      "items": [
+        {
+          "name": "PAD-US 1.4 Federal Management Agencies",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996b38e4b0b8a7f62893cd/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 DOD Boundaries",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c9973eae4b0b8a7f6289469/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Fee Managers ",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997641e4b0b8a7f628946c/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Manager Name",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Manager Type",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c99634ce4b0b8a7f628915b/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Proclamation and Other Planning Boundaries",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997861e4b0b8a7f628946f/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protected Areas by Manager",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997bb7e4b0b8a7f6289475/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protection Mechanism Category",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997a12e4b0b8a7f6289472/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Protection Status by GAP Status Code",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996d3be4b0b8a7f6289450/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 1.4 Public Access",
+          "isEnabled": true,
+		  "isShown": false,
+		  "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996d2de4b0b8a7f628944e/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+      ]
+    }
+  ]
+}
