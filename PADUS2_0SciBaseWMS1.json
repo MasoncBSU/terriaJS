@@ -6,7 +6,7 @@
     "north": 49
   },
   "baseMapName": "Bing Maps Roads",
-  "initialViewerMode": "2d",
+  "viewerMode": "2d",
   "catalog": [
     {
       "name": "PAD-US 2.0",
