@@ -14,6 +14,29 @@
       "type": "group",
       "items": [
         {
+          "name": "PAD-US 2.0 Proclamation and Other Planning Boundaries",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997861e4b0b8a7f628946f/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "PAD-US 2.0 DOD Boundaries",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c9973eae4b0b8a7f6289469/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },        {
           "name": "PAD-US 2.0 Federal Management Agencies",
           "isEnabled": true,
           "isShown": false,
@@ -104,30 +127,6 @@
           "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
-          "name": "PAD-US 2.0 Proclamation and Other Planning Boundaries",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c997861e4b0b8a7f628946f/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
-          "name": "PAD-US 2.0 DOD Boundaries",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c9973eae4b0b8a7f6289469/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
