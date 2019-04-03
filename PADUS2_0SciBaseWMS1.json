@@ -55,6 +55,18 @@
           }
         },
         {
+          "name": "PAD-US 2.0 Federal Fee Managers (Authoritative Data)",
+          "isEnabled": true,
+          "isShown": true,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5ca5152ae4b0b8a7f635e165/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
           "name": "PAD-US 2.0 Fee Managers ",
           "isEnabled": true,
           "isShown": false,
