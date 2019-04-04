@@ -56,8 +56,8 @@
         },
         {
           "name": "PAD-US 2.0 Federal Fee Managers (Authoritative Data)",
-          "isEnabled": false,
-          "isShown": true,
+          "isEnabled": true,
+          "isShown": false,
           "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5ca5152ae4b0b8a7f635e165/MapServer",
