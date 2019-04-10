@@ -20,17 +20,29 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 2.0 Fee Topology",
+          "name": "PAD-US 2.0 Fee Topology - All Errors",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5cae5baae4b0c3b00654d078/MapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5cae5baae4b0c3b00654d078/MapServer/0",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },        
+        },
+        {
+          "name": "PAD-US 2.0 Fee Topology Fed/Fed Grtr than 5 Ac",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5cae5baae4b0c3b00654d078/MapServer/1",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },  
         {
           "name": "PAD-US 2.0 Proclamation and Other Planning Boundaries",
           "isEnabled": true,
