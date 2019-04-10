@@ -20,6 +20,18 @@
       "type": "group",
       "items": [
         {
+          "name": "PAD-US 2.0 Fee Topology",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5cae5baae4b0c3b00654d078/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },        
+        {
           "name": "PAD-US 2.0 Proclamation and Other Planning Boundaries",
           "isEnabled": true,
           "isShown": false,
