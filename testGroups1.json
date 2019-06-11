@@ -18,11 +18,11 @@
             "type": "group",
             "isOpen":false,
             "isVisible":false,
-            "name": "Overlap group 1",
+            "name": "Overlap group 2",
             "items": [
         {
           "name": "PAD-US 2.0 Fee Topology - All Errors",
-          "isEnabled": true,
+          "isEnabled": false,
           "isShown": false,
           "isLegendVisible": false,
           "type": "esri-mapServer",
