@@ -16,6 +16,7 @@
     "catalog": [
         {
             "type": "group",
+            "isOpen": true,
             "name": "Overlap group",
             "items": [
         {
