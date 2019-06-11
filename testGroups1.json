@@ -1,0 +1,54 @@
+{
+  "homeCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "initialCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "baseMapName": "Bing Maps Roads",
+  "viewerMode": "2d",
+    "catalog": [
+        {
+            "type": "group",
+            "name": "My group",
+            "items": [
+        {
+          "name": "PAD-US 2.0 Fee Topology - All Errors",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5cae5baae4b0c3b00654d078/MapServer/0",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+            ]
+        },
+        {
+            "type": "group",
+            "name": "My group",
+            "items": [
+        {
+          "name": "PAD-US 2.0 Manager Name",
+          "isEnabled": true,
+          "isShown": true,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+            ]
+        },
+    ],
+}
