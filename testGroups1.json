@@ -23,7 +23,7 @@
             "items": [
         {
           "name": "PAD-US 2.0 Fee Topology - All Errors",
-          "isEnabled": true,
+          "isEnabled": false,
           "isShown": false,
           "isLegendVisible": false,
           "type": "esri-mapServer",
