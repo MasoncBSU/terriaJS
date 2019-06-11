@@ -16,9 +16,9 @@
     "catalog": [
         {
             "type": "group",
-            "isOpen":false,
+            "isOpen":true,
             "isVisible":false,
-            "name": "Overlap group 2",
+            "name": "Overlap group 3",
             "items": [
         {
           "name": "PAD-US 2.0 Fee Topology - All Errors",
