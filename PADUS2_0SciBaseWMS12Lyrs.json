@@ -20,7 +20,7 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 2.0 Fee Topology Fed/State Grtr than 5 Ac",
+          "name": "PAD-US 2.0 Fee Topology Fed/State Greater than 5 Ac",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -44,7 +44,7 @@
           }
         },
         {
-          "name": "PAD-US 2.0 Fee Topology Fed/Fed Grtr than 5 Ac",
+          "name": "PAD-US 2.0 Fee Topology Fed/Fed Greater than 5 Ac",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
