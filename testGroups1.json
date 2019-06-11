@@ -18,11 +18,12 @@
             "type": "group",
             "isOpen":true,
             "isVisible":false,
-            "name": "Overlap group 3",
+            "isEnabled": false,
+            "name": "Overlap Assesment Layers",
             "items": [
         {
           "name": "PAD-US 2.0 Fee Topology - All Errors",
-          "isEnabled": false,
+          "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
           "type": "esri-mapServer",
@@ -36,7 +37,7 @@
         },
         {
             "type": "group",
-            "name": "My group",
+            "name": "PAD-US 2.0 Layers",
             "items": [
         {
           "name": "PAD-US 2.0 Manager Name",
