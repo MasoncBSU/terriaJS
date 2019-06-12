@@ -47,6 +47,7 @@
           "type": "esri-mapServer",
           "metadataUrl": "https://www.sciencebase.gov/catalog/file/get/5b030c7ae4b0da30c1c1d6de?f=__disk__27%2F0c%2F5d%2F270c5df419901e7060f0a4d08076a6ff6d8889bd&transform=1&allowOpen=true",
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
+          "description": "An ArcGIS WebService representing fine level manager or administrative agency name standardized for the Nation (USFS, BLM, State Fish and Wildlife, State Parks and Rec, City, NGO, etc). DOD lands shown with outline. Use for categorization by manager name, with detailed federal managers and generic state/local/other managers.",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
