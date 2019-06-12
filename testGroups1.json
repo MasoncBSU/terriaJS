@@ -45,17 +45,12 @@
           "isShown": true,
           "isLegendVisible": true,
           "type": "esri-mapServer",
+           "metadataUrl": "https://www.sciencebase.gov/catalog/file/get/5b030c7ae4b0da30c1c1d6de?f=__disk__27%2F0c%2F5d%2F270c5df419901e7060f0a4d08076a6ff6d8889bd&transform=1&allowOpen=true,
           "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5c996787e4b0b8a7f6289256/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-          "metadataUrl": {
-            "type": "string",
-            "title": "#Metadata URL",
-            "description": "https://www.sciencebase.gov/catalog/file/get/5b030c7ae4b0da30c1c1d6de?f=__disk__27%2F0c%2F5d%2F270c5df419901e7060f0a4d08076a6ff6d8889bd&transform=1&allowOpen=true"
-          },
-        },
             ]
         },
     ],
