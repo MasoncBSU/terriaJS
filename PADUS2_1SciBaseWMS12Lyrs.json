@@ -20,7 +20,7 @@
       "type": "group",
       "items": [
         {
-          "name": "PAD-US 2.1 Fee Topology Fed/State Greater than 5 Ac",
+          "name": "Fee Topology Fed/State Greater than 5 Ac",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -32,7 +32,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Fee Topology - All Errors",
+          "name": "Fee Topology - All Errors",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -44,7 +44,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Fee Topology Fed/Fed Greater than 5 Ac",
+          "name": "Fee Topology Fed/Fed Greater than 5 Ac",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -56,7 +56,7 @@
           }
         },  
         {
-          "name": "PAD-US 2.1 Proclamation and Other Planning Boundaries",
+          "name": "Proclamation and Other Planning Boundaries",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -68,7 +68,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 DOD Boundaries",
+          "name": "DOD Boundaries",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -79,7 +79,7 @@
             "link": "http://www.usgs.gov"
           }
         },        {
-          "name": "PAD-US 2.1 Federal Management Agencies",
+          "name": "Federal Management Agencies",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -91,7 +91,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Federal Fee Managers (Authoritative Data)",
+          "name": "Federal Fee Managers (Authoritative Data)",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -103,7 +103,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Fee Managers ",
+          "name": "Fee Managers ",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -115,7 +115,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Public Access",
+          "name": "Public Access",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -127,7 +127,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Protected Areas by Manager",
+          "name": "Protected Areas by Manager",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -139,7 +139,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Protection Status by GAP Status Code",
+          "name": "Protection Status by GAP Status Code",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": true,
@@ -151,7 +151,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Protection Mechanism Category",
+          "name": "Protection Mechanism Category",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": false,
@@ -163,7 +163,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Manager Type",
+          "name": "Manager Type",
           "isEnabled": true,
           "isShown": false,
           "isLegendVisible": true,
@@ -175,7 +175,7 @@
           }
         },
         {
-          "name": "PAD-US 2.1 Manager Name",
+          "name": "Manager Name",
           "isEnabled": true,
           "isShown": true,
           "isLegendVisible": true,
