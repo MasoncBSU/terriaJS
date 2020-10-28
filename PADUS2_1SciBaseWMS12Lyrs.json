@@ -101,19 +101,7 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },
-        {
-          "name": "Federal Fee Managers (Authoritative Data) with Tribal",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase3/rest/services/Catalog/5f8725da82cebef40f170821/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },        
+        },       
         {
           "name": "Fee Managers ",
           "isEnabled": true,
