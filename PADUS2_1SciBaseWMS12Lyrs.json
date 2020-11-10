@@ -115,6 +115,18 @@
           }
         },
         {
+          "name": "Fee Managers BSU ",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1_AllFeeManagers/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
           "name": "Public Access",
           "isEnabled": true,
           "isShown": false,
