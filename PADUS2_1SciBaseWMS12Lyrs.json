@@ -66,66 +66,7 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },
-        {
-          "name": "DOD Boundaries",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73be2782cef8d18399608c/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },        {
-          "name": "Federal Management Agencies",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73f4e082cef8d1839962d6/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
-          "name": "Federal Fee Managers (Authoritative Data)",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73f3b082cef8d1839962ce/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },       
-        {
-          "name": "Fee Managers ",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73f60882cef8d1839962da/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
-        {
-          "name": "Fee Managers BSU ",
-          "isEnabled": true,
-          "isShown": false,
-          "isLegendVisible": false,
-          "type": "esri-mapServer",
-          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1_AllFeeManagers/MapServer",
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
-        },
+        },      
         {
           "name": "Public Access",
           "isEnabled": true,
@@ -174,25 +115,37 @@
             "link": "http://www.usgs.gov"
           }
         },
-        {
-          "name": "Manager Type",
+         {
+          "name": "Federal Fee Managers - Authoritative Data",
           "isEnabled": true,
           "isShown": false,
-          "isLegendVisible": true,
+          "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73f88a82cef8d1839962e0/MapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FederalFeeManagers_Authoritative/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
         },
         {
-          "name": "Manager Name",
+          "name": "Manager Type",
           "isEnabled": true,
-          "isShown": true,
+          "isShown": false,
           "isLegendVisible": true,
           "type": "esri-mapServer",
-          "url": "https://gis.usgs.gov/sciencebase2/rest/services/Catalog/5f73f76682cef8d1839962dd/MapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerType/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+         {
+          "name": "Fee Managers ",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1_AllFeeManagers/MapServer",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
