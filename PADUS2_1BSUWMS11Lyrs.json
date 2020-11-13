@@ -1,0 +1,169 @@
+{
+  "homeCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "initialCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "baseMapName": "Bing Maps Roads",
+  "viewerMode": "2d",
+  "catalog": [
+    {
+      "name": "PAD-US 2.1",
+      "isOpen": false,
+      "type": "group",
+      "items": [
+        {
+          "name": "Fee Topology - All Errors",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeTopologyOverlaps/MapServer/0",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Fee Topology Fed/Fed Grtr than 5 Ac",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeTopologyOverlaps/MapServer/1",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },  
+        {
+          "name": "Proclamation and Other Planning Boundaries",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ProclamationandOtherPlanningBoundaries/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Federal Management Agencies",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FederalManagementAgencies/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Federal Fee Managers (Authoritative Data)",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FederalFeeManagers_Authoritative/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Public Access",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1PublicAccess/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protected Areas by Manager",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ProtectedAreasbyManager/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protection Status by GAP Status Code",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ProtectionStatusbyGAPStatusCode/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protection Mechanism Category",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ProtectionMechanismCategory/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Manager Type",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerType/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Manager Name",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerName/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Fee Managers ",
+          "isEnabled": true,
+          "isShown": true,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeManagers/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+      ]
+    }
+  ]
+}
