@@ -42,7 +42,19 @@
             "text": "USGS",
             "link": "http://www.usgs.gov"
           }
-        },  
+        },
+        {
+          "name": "Fee Topology Fed/State Grtr than 5 Ac",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeTopologyOverlaps/MapServer/2",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        }, 
         {
           "name": "Proclamation and Other Planning Boundaries",
           "isEnabled": true,
