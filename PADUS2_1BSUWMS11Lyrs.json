@@ -172,7 +172,7 @@
           "isShown": true,
           "isLegendVisible": true,
           "format": "png32",
-          "type": "wms",
+          "type": "esri-mapServer",
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeManagers/MapServer",
           "attribution": {
             "text": "USGS",
