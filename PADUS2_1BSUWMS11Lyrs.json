@@ -171,7 +171,7 @@
           "isEnabled": true,
           "isShown": true,
           "isLegendVisible": true,
-          "imageType": png32,
+          "imageType": "png32",
           "type": "esri-mapServer",
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeManagers/MapServer",
           "attribution": {
