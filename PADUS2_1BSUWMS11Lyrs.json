@@ -176,10 +176,6 @@
           "parameters": {
             "format": "png32"
           }
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
         },
       ]
     }
