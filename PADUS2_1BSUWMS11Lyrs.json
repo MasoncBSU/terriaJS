@@ -80,10 +80,6 @@
           "parameters": {
             "format": "png32"
           }
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
         },
         {
           "name": "Federal Fee Managers (Authoritative Data)",
@@ -95,10 +91,6 @@
           "parameters": {
             "format": "png32"
           }        
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
         },
         {
           "name": "Public Access",
@@ -169,11 +161,6 @@
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerName/MapServer",
           "parameters": {
             "format": "png32"
-          }
-          "attribution": {
-            "text": "USGS",
-            "link": "http://www.usgs.gov"
-          }
         },
         {
           "name": "Fee Managers",
