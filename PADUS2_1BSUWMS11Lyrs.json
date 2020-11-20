@@ -161,6 +161,7 @@
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerName/MapServer",
           "parameters": {
             "format": "png32"
+          }     
         },
         {
           "name": "Fee Managers",
