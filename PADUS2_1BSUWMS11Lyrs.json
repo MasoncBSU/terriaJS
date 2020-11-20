@@ -77,6 +77,9 @@
           "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FederalManagementAgencies/MapServer",
+          "parameters": {
+            "format": "png32"
+          }
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
@@ -89,6 +92,9 @@
           "isLegendVisible": false,
           "type": "esri-mapServer",
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FederalFeeManagers_Authoritative/MapServer",
+          "parameters": {
+            "format": "png32"
+          }        
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
@@ -161,6 +167,9 @@
           "isLegendVisible": true,
           "type": "esri-mapServer",
           "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1ManagerName/MapServer",
+          "parameters": {
+            "format": "png32"
+          }
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
