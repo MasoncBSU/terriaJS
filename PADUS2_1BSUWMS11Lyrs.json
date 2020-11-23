@@ -52,7 +52,7 @@
           "isPromoted": true,
           "isLegendVisible": false,
           "type": "esri-mapServer",
-          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeTopologyOverlaps/MapServer/2",
+          "url": "https://arcgis.boisestate.edu/arcsrv/rest/services/PADUS/PADUS2_1FeeTopologyOverlaps/MapServer/3",
           "attribution": {
             "text": "USGS",
             "link": "http://www.usgs.gov"
