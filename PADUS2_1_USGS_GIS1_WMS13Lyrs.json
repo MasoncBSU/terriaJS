@@ -1,0 +1,180 @@
+{
+  "homeCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "initialCamera": {
+    "west": -122,
+    "south": 28,
+    "east": -64,
+    "north": 48
+  },
+  "baseMapName": "Bing Maps Roads",
+  "viewerMode": "2d",
+  "catalog": [
+    {
+      "name": "PAD-US 2.1",
+      "isOpen": false,
+      "type": "group",
+      "items": [
+        {
+          "name": "Fee Topology - All Errors",
+          "isEnabled": true,
+          "isShown": false,
+          "isPromoted": true,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FeeTopologyOverlaps/MapServer/0",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Fee Topology Fed/Fed Grtr than 5 Ac",
+          "isEnabled": true,
+          "isShown": false,
+          "isPromoted": true,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FeeTopologyOverlaps/MapServer/1",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Fee Topology Fed/State Grtr than 5 Ac",
+          "isEnabled": true,
+          "isShown": false,
+          "isPromoted": true,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FeeTopologyOverlaps/MapServer/3",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        }, 
+        {
+          "name": "Proclamation and Other Planning Boundaries",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ProclamationandOtherPlanningBoundaries/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Federal Management Agencies",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FederalManagementAgencies/MapServer",
+          "parameters": {
+            "format": "png32"
+          }
+        },
+        {
+          "name": "Federal Fee Managers (Authoritative Data)",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FederalFeeManagersAuth/MapServer",
+          "parameters": {
+            "format": "png32"
+          }        
+        },
+        {
+          "name": "Public Access",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/PublicAccess/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protected Areas by Manager",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ProtectedAreasbyManager/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protection Status by GAP Status Code",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ProtectionStatusbyGAPStatusCode/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Protection Mechanism Category",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": false,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ProtectionMechanismCategory/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Manager Type",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ManagerType/MapServer",
+          "attribution": {
+            "text": "USGS",
+            "link": "http://www.usgs.gov"
+          }
+        },
+        {
+          "name": "Manager Name",
+          "isEnabled": true,
+          "isShown": false,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/ManagerName/MapServer",
+          "parameters": {
+            "format": "png32"
+          }     
+        },
+        {
+          "name": "Fee Managers",
+          "isEnabled": true,
+          "isShown": true,
+          "isLegendVisible": true,
+          "type": "esri-mapServer",
+          "url": "https://gis1.usgs.gov/arcgis/rest/services/padus2_1/FeeManagers/MapServer",
+          "parameters": {
+            "format": "png32"
+          }
+        },
+      ]
+    }
+  ]
+}
